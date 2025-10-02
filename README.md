@@ -13,8 +13,3 @@
 - Databases: SQL Server, MySQL
 - Tools: Git, Visual Studio, VS Code
 
-## 📂 Projects
-- [Mini Portfolio Website](#) — HTML/CSS/JS responsive site  
-- [Todo List App](#) — React app with CRUD features  
-- [Student Management System](#) — C# console app managing data  
-- [SQL Exercises](#) — Queries and database practice scripts
